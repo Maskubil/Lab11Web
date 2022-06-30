@@ -480,7 +480,7 @@ $routes->group('admin', ['filters' => 'auth'], function ($routes) {
 });
 ```
 
-# Percobaan Akses Menu Admin
+# Percobaan Akses Menu Admin.
 Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut
 diakses maka, akan dimuculkan halaman login.
 
